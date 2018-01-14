@@ -1,0 +1,2 @@
+# netatmo
+Netatmo go prototype
