@@ -1,0 +1,6 @@
+#!/bin/bash
+
+CLIENT_ID=""
+CLIENT_SECRET=""
+USERNAME=""
+PASSWORD=""
